@@ -15,13 +15,15 @@ I am a Computer Science Engineering student at the University of Guadalajara, sp
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ArelyAyalaR&theme=material-palenight&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArelyAyalaR&theme=material-palenight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 [![](https://visitcount.itsvg.in/api?id=ArelyAyalaR&icon=0&color=6)](https://visitcount.itsvg.in)
 ---
+
+### 😁 Random Jokes
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
 
 
