@@ -20,7 +20,11 @@ I am a Computer Science Engineering student at the University of Guadalajara, sp
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 ---
-[![](https://visitcount.itsvg.in/api?id=ArelyAyalaR&icon=0&color=6)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=ArelyAyalaR&icon=0&color=6" alt="Visit Count">
+  </a>
+</div>
 
 
 
